@@ -3,7 +3,8 @@
 A deep learning pipeline combining **U-Net** (segmentation) and **VGG16** (classification) to automatically detect and classify brain tumors from MRI scans.
 
 > **Authors:** Wasay Aamer, Muzammil Hussain Memon, Mahad Khokhar  
-> **Institution:** Department of Electrical and Computer Engineering, Toronto Metropolitan University
+> **Institution:** Department of Electrical and Computer Engineering, Toronto Metropolitan University  
+> **Course:** EE 8209 — Intelligent Systems, Toronto Metropolitan University
 
 ---
 
